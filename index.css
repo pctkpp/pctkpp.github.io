@@ -1,0 +1,7 @@
+.letter{
+    color: hotpink;
+}
+
+.letter:hover{
+    color: indigo;
+}
