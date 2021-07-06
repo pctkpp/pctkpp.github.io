@@ -9,14 +9,16 @@
 .cen{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    font-size: 2vw;
 }
 
 button{
     background-color: blue;
     color: white;
     font-family: 'Montserrat', sans-serif;
+    font-size: 2vw;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 5px 15px;
 
 }
